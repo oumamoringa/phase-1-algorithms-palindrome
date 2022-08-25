@@ -17,6 +17,10 @@ function isPalindrome(word) {
 
 /*
   Add written explanation of your solution here
+
+  *checks if the varible matches the words above.
+  *returna true if the words matches.
+  *returns false if the words don't match.
 */
 
 // You can run `node index.js` to view these console logs
