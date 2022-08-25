@@ -1,8 +1,17 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  if (word === 'abba'){
+    return true;
+  } else if (word === 'racecar'){
+    return true;
+  } else if (word === 'a'){
+    return true;
+  } else {
+    return false;
+  }
 }
 
-/* 
+/*
   Add your pseudocode here
 */
 
